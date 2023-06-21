@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Spotify
+
+  Created by Alexander Kovzhut on 22.06.2023.
+  
+*/
+
+"First" = "初め";
+"Second" = "2番";
+"Third" = "三番目";
+"Start" = "始める";
+"Main view" = "メインビュー";
+"Reset" = "リセット";

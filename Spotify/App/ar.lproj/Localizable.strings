@@ -1,0 +1,14 @@
+/*
+  Localizable.strings
+  Spotify
+
+  Created by Alexander Kovzhut on 22.06.2023.
+  
+*/
+
+"First" = "أولاً";
+"Second" = "ثانية";
+"Third" = "ثالث";
+"Start" = "يبدأ";
+"Main view" = "شاشة العرض الرئيسية";
+"Reset" = "إعادة ضبط";
